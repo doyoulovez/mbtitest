@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "mbti-dylz",
+    "slug": "mbti-dylz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "1.0.0",
+      "bundleIdentifier": "com.mbti.dylz",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-2462575935379358~6221863698"
+      }
+    },
+    "android": {
+      "package": "com.mbti.dylz",
+      "versionCode": 1,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-2462575935379358~1216755505"
+      }
+ },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

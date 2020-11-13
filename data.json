@@ -1,0 +1,532 @@
+{
+    "types": [
+        {
+            "idx": 0,
+            "name": "INFP",
+            "h_name": "열정적인 중재자",
+            "charicter": "정열적이고 충실하며 목가적이고, 낭만적이며 내적 신념이 깊다. 마음이 따뜻하고 조용하며 자신이 관계하는 일이나 사람에 대하여 책임감이 강하고 성실하다. 이해심이 많고 관대하며 자신이 지향하는 이상에 대하여 정열적인 신념을 가졌으며, 남을 지배하거나 좋은 인상을 주고자 하는 경향이 거의 없다. 완벽주의적 경향이 있으며, 노동의 대가를 넘어서 자신이 하는 일에 의미를 찾고자하는 경향이 있으며, 인간 이해와 인간 복지에 기여할 수 있는 일을 하기를 원한다. 자신의 이상과 현실이 안고 있는 실제 상황을 고려하는 능력이 필요하다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/infp-mediator.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 3,
+                    "question_idx": 0,
+                    "answer_order": 1,
+                    "answer_title": "ENFJ",
+                    "answer_h_title": "정의로운 사회운동가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/enfj-protagonist.png"
+                },
+                {
+                    "answer_idx": 5,
+                    "question_idx": 0,
+                    "answer_order": 2,
+                    "answer_title": "ENTJ",
+                    "answer_h_title": "대담한 통솔자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/entj-commander.png"
+                }
+            ]
+        },
+        {
+            "idx": 1,
+            "name": "ENFP",
+            "h_name": "재기발랄한 활동가",
+            "charicter": "따뜻하고 정열적이고 활기가 넘치며 재능이 많고 상상력이 풍부하다. 온정적이고 창의적이며 항상 새로운 가능성을 찾고 시도하는 형이다. 문제 해결에 재빠르고 관심이 있는 일은 무엇이든지 수행해내는 능력과 열성이 있다. 다른 사람들에게 관심을 쏟으며 사람들을 잘 다루고 뛰어난 통찰력으로 도움을 준다. 반복되는 일상적인 일을 참지 못하고 열성이 나지 않는다. 또한 한 가지 일을 끝내기도 전에 몇 가지 다른 일을 또 벌리는 경향을 가지고 있다. 통찰력과 창의력이 요구되지 않는 일에는 흥미를 느끼지 못하고 열성을 불러 일으키지 못한다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/enfp-campaigner.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 2,
+                    "question_idx": 1,
+                    "answer_order": 1,
+                    "answer_title": "INFJ",
+                    "answer_h_title": "선의의 옹호자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/infj-advocate.png"
+                },
+                {
+                    "answer_idx": 4,
+                    "question_idx": 1,
+                    "answer_order": 2,
+                    "answer_title": "INTJ",
+                    "answer_h_title": "용의주도한 전략가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/intj-architect.png"
+                }
+            ]
+        },
+        {
+            "idx": 2,
+            "name": "INFJ",
+            "h_name": "선의의 옹호자",
+            "charicter": "인내심이 많고 통찰력과 직관력이 뛰어나며 양심이 바르고 화합을 추구한다. 창의력이 뛰어나며, 강한 직관력으로 말없이 타인에게 영향력을 끼친다. 독창성과 내적 독립심이 강하며, 확고한 신념과 열정으로 자신의 영감을 구현시켜 나가는 정신적 지도자들이 많다. 한 곳에 몰두하는 경향으로 목적 달성에 필요한 주변적인 조건들을 경시하기 쉽고, 자기 안의 갈등이 많고 복잡하다. 이들은 풍부한 내적인 생활을 소유하고 있다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/infj-advocate.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 1,
+                    "question_idx": 2,
+                    "answer_order": 1,
+                    "answer_title": "ENFP",
+                    "answer_h_title": "재기발랄한 활동가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/enfp-campaigner.png"
+                },
+                {
+                    "answer_idx": 7,
+                    "question_idx": 2,
+                    "answer_order": 2,
+                    "answer_title": "ENTP",
+                    "answer_h_title": "뜨거운 논쟁을 즐기는 변론가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/entp-debater.png"
+                }
+            ]
+        },
+        {
+            "idx": 3,
+            "name": "ENFJ",
+            "h_name": "정의로운 사회운동가",
+            "charicter": "따뜻하고 적극적이며 책임감이 강하고 사교성이 풍부하고 동정심이 많다. 상당히 이타적이고 민첩하고 인화를 중요시하고 참을성이 많다. 다른 사람들의 생각이나 의견에 진지한 관심을 가지고 공동선을 위하여 다른 사람의 의견에 대체로 동의한다. 현재보다는 미래의 가능성을 추구하며 편안하고 능란하게 계획을 제시하고 집단을 이끌어 가는 능력이 있다. 때로 다른 사람들의 좋은 점을 지나치게 이상화하고 맹목적 충성을 보이는 경향이 있으며 다른 사람들에 대해서도 자기와 같을 것이라고 생각하는 경향이 있다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/enfj-protagonist.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 0,
+                    "question_idx": 3,
+                    "answer_order": 1,
+                    "answer_title": "INFP",
+                    "answer_h_title": "열정적인 중재자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/infp-mediator.png"
+                },
+                {
+                    "answer_idx": 8,
+                    "question_idx": 3,
+                    "answer_order": 2,
+                    "answer_title": "ISFP",
+                    "answer_h_title": "호기심 많은 예술가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/isfp-adventurer.png"
+                }
+            ]
+        },
+        {
+            "idx": 4,
+            "name": "INTJ",
+            "h_name": "용의주도한 전략가",
+            "charicter": "대부분의 사항에 마땅한 근거를 논해야 하는 ‘합리적 성향’이 강하다. 사람을 사귈 때는 상대방이 해당 분야에 대해 ‘유능한지’와 ‘객관적인지’를 먼저 헤아리려고 한다. 이들은 주로 나무보다 숲을 먼저 보고 일을 처리하는 편이지만, 그 해결법 발상마저 근본적이고 엄밀하기로 유명하다. 이 탓에 예외 상황이나 반칙은 물론, 자기 분야(전공)에 대해 얕은 지식으로 잡담 떠는 걸 몹시 싫어하는 성격으로 알려져 있다. 그 밖에 논리, 독립(혹은 독창성), 효율이라는 가치는 이들에게 상당히 중요하기에, 학문을 좋아하며 수험에도 특화되어 있다고 알려져 있다. 다만, 징험이나 방법론을 못 버리는 특성도 있으므로 아주 새로운 상황(신유형)이나 손쉬운 잡무에 유달리 빈약한 특성을 보이기도 한다. 그 외 감성적인 것에 우둔하거나 냉랭한 편으로 알려져 있다. ",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/intj-architect.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 1,
+                    "question_idx": 4,
+                    "answer_order": 1,
+                    "answer_title": "ENFP",
+                    "answer_h_title": "재기발랄한 활동가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/enfp-campaigner.png"
+                },
+                {
+                    "answer_idx": 7,
+                    "question_idx": 4,
+                    "answer_order": 2,
+                    "answer_title": "ENTP",
+                    "answer_h_title": "뜨거운 논쟁을 즐기는 변론가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/entp-debater.png"
+                }
+            ]
+        },
+        {
+            "idx": 5,
+            "name": "ENTJ",
+            "h_name": "대담한 통솔자",
+            "charicter": "열성이 많고 솔직하고 단호하고 지도력과 통솔력이 있다. 활동적이고 솔직하며, 결정력과 통솔력이 있고, 장기적 계획과 거시적 안목을 선호한다. 지식에 대한 욕구와 관심이 많으며 특히 지적인 자극을 주는 새로운 아이디어에 높은 관심을 가졌다. 일 처리에 있어 사전준비를 철저히 하며 논리 분석적으로 계획하고 조직하여 체계적으로 추진해 나가는 형이다. 다른 사람의 의견에 귀를 기울일 필요가 있으며, 자신과 타인의 감정에 충실할 필요가 있다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/entj-commander.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 0,
+                    "question_idx": 5,
+                    "answer_order": 1,
+                    "answer_title": "INFP",
+                    "answer_h_title": "열정적인 중재자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/infp-mediator.png"
+                },
+                {
+                    "answer_idx": 6,
+                    "question_idx": 5,
+                    "answer_order": 2,
+                    "answer_title": "INTP",
+                    "answer_h_title": "논리적인 사색가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/intp-logician.png"
+                }
+            ]
+        },
+        {
+            "idx": 6,
+            "name": "INTP",
+            "h_name": "논리적인 사색가",
+            "charicter": "조용하고 과묵하며 논리와 분석으로 문제를 해결하기 좋아한다. 과묵하나 관심이 있는 분야에 대해서는 말을 잘하며 이해가 빠르고 높은 직관력으로 통찰하는 재능과 지적 호기심이 많다. 개인적인 인간관계나 친목회 혹은 잡담 등에 별로 관심이 없으며 매우 분석적이고 논리적이며 객관적 비평을 잘 한다. 사교성이 결여되기 쉬운 경향이 있고, 때로는 의도가 아니더라도 자신의 능력을 과시하는 수가 있기 때문에 거만하게 보일 수 있다. 평상시에는 조용해 보이지만 친한 친구나, 코드가 맞는 사람이 나타났다 싶으면 말을 많이 하기 시작하는데 주로 사회에서 일어나는 여러가지 본인이 관심을 가지는 일들과 그것들에 관련되는 주제들에 대해 보통 사람들보다 논리적으로 깊게 분석하고 토론하며, 간혹 마음에 안 들 경우 반박하는 것을 정말 좋아한다. 특히 뜬구름 잡는 주제를 좋아한다. 의도치 않게 자아가 강하므로 조직적이고 사회생활 규범을 중시하는 일반적인 한국 단체생활에 잘 들어맞지 않는다. 게으른 성격이지만 열심히 공부를 해서 학자나 교수 자리에 올라가서 진가를 발휘하는 경우도 있다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/intp-logician.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 5,
+                    "question_idx": 6,
+                    "answer_order": 1,
+                    "answer_title": "ENTJ",
+                    "answer_h_title": "대담한 통솔자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/entj-commander.png"
+                },
+                {
+                    "answer_idx": 15,
+                    "question_idx": 6,
+                    "answer_order": 2,
+                    "answer_title": "ESTJ",
+                    "answer_h_title": "엄격한 관리자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/estj-executive.png"
+                }
+            ]
+        },
+        {
+            "idx": 7,
+            "name": "ENTP",
+            "h_name": "뜨거운 논쟁을 즐기는 변론가",
+            "charicter": "민첩하고 독창적이며 창의력이 풍부하다. 안목이 넓고 다방면에 관심과 재능이 많다. 풍부한 상상력과 새로운 일을 시도하는 솔선력이 강하며 논리적이다. 새로운 문제나 복잡한 문제에 해결 능력이 뛰어나며 사람들의 동향에 대해 기민하고 박식하다. 그러나 일상적이고 세부적인 일을 경시하고 태만하기 쉽다. 즉, 새로운 도전이 없는 일에는 흥미가 없으나 관심을 갖고 있는 일에는 대단한 수행능력을 가지고 있다. 때로는 경쟁적이며, 현실적이다기 보다는 이상주의자에 가까운 편이다. E 타입 중에서 가장 평균 지능이 높지만, 앞의 특성들 때문에 지능에 비해 학업 성취도는 낮다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/entp-debater.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 2,
+                    "question_idx": 7,
+                    "answer_order": 1,
+                    "answer_title": "INFJ",
+                    "answer_h_title": "선의의 옹호자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/infj-advocate.png"
+                },
+                {
+                    "answer_idx": 4,
+                    "question_idx": 7,
+                    "answer_order": 2,
+                    "answer_title": "INTJ",
+                    "answer_h_title": "용의주도한 전략가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/intj-architect.png"
+                }
+            ]
+        },
+        {
+            "idx": 8,
+            "name": "ISFP",
+            "h_name": "호기심 많은 예술가",
+            "charicter": "말없이 다정하고 온화하며 사람들에게 친절하고 겸손하려고 하나 남들은 그렇게 느끼지 않는 경우가 많다. 상대방을 잘 알게 될 때까지 이 따뜻함을 잘 드러내지 않는다. 동정적이며 자기 능력에 대해 모든 성격 유형 중에서 가장 겸손하고 적응력과 관용이 많다. 자신의 의견이나 가치를 타인에게 강요하지 않으며 반대의견이나 충돌을 피하고, 인화를 중시한다. 인간과 관계되는 일을 할 때 자신과 타인의 감정에 지나치게 민감하고, 결정력과 추진력이 필요할 때가 많을 것이다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/isfp-adventurer.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 3,
+                    "question_idx": 8,
+                    "answer_order": 1,
+                    "answer_title": "ENFJ",
+                    "answer_h_title": "정의로운 사회운동가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/enfj-protagonist.png"
+                },
+                {
+                    "answer_idx": 12,
+                    "question_idx": 8,
+                    "answer_order": 2,
+                    "answer_title": "ISFJ",
+                    "answer_h_title": "용감한 수호자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/isfj-defender.png"
+                },
+                {
+                    "answer_idx": 15,
+                    "question_idx": 8,
+                    "answer_order": 2,
+                    "answer_title": "ESTJ",
+                    "answer_h_title": "엄격한 관리자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/estj-executive.png"
+                }
+            ]
+        },
+        {
+            "idx": 9,
+            "name": "ESFP",
+            "h_name": "모험을 즐기는 사업가",
+            "charicter": "사교적이고 활동적이며 수용력이 강하고 친절하며 낙천적이다. 어떤 상황이든 잘 적응하며 현실적이고 실제적이다. 주위의 사람이나 일어나는 일에 대하여 관심이 많으며 사람이나 사물을 다루는 사실적인 상식이 풍부하다. 때로는 조금 수다스럽고, 진지함이 결여되거나 마무리를 등한시하는 경향이 있으나, 어떤 조직체나 공동체에서 밝고 재미있는 분위기 조성 역할을 잘한다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/esfp-entertainer.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 12,
+                    "question_idx": 9,
+                    "answer_order": 1,
+                    "answer_title": "ISFJ",
+                    "answer_h_title": "용감한 수호자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/isfj-defender.png"
+                },
+                {
+                    "answer_idx": 14,
+                    "question_idx": 9,
+                    "answer_order": 2,
+                    "answer_title": "ISTJ",
+                    "answer_h_title": "청렴결백한 논리주의자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/istj-logistician.png"
+                }
+            ]
+        },
+        {
+            "idx": 10,
+            "name": "ISTP",
+            "h_name": "만능 재주꾼",
+            "charicter": "조용하고 과묵하고 절제된 호기심으로 인생을 관찰하며 상황을 파악하는 민감성과 도구를 다루는 뛰어난 능력이 있다. 말이 없으며, 객관적으로 인생을 관찰하는 형이다. 필요 이상으로 자신을 발휘하지 않으며, 일과 관계되지 않는 이상 어떤 상황이나 인간관계에 직접 뛰어들지 않는다. 가능한 에너지 소비를 하지 않으려 하며, 사람에 따라 사실적 자료를 정리, 조직하길 좋아하며 기계를 만지거나 인과관계나 객관적 원리에 관심이 많다. 민첩하게 상황을 파악하는 능력이 있다. 느낌이나 감정, 타인에 대한 마음을 표현하기 어려워한다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/istp-virtuoso.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 13,
+                    "question_idx": 10,
+                    "answer_order": 1,
+                    "answer_title": "ESFJ",
+                    "answer_h_title": "사교적인 외교관",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/esfj-consul.png"
+                },
+                {
+                    "answer_idx": 15,
+                    "question_idx": 10,
+                    "answer_order": 2,
+                    "answer_title": "ESTJ",
+                    "answer_h_title": "엄격한 관리자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/estj-executive.png"
+                }
+            ]
+        },
+        {
+            "idx": 11,
+            "name": "ESTP",
+            "h_name": "자유로운 영혼의 연예인",
+            "charicter": "현실적인 문제 해결에 능하며 적응력이 강하고 관용적이다. 사실적이고 관대하며, 개방적이고 사람이나 일에 대한 선입관이 별로 없다. 강한 현실 감각으로 타협책을 모색하고 문제를 해결하는 능력이 뛰어나다. 적응을 잘 하고 친구를 좋아하며 긴 설명을 싫어하고, 운동, 음식, 다양한 활동 등 주로 오감으로 보고, 듣고, 만질 수 있는 생활의 모든 것을 즐기는 형이다. 순발력이 뛰어나며 많은 사실들을 쉽게 기억하고, 예술적인 멋과 판단력을 지니고 있으며, 연장이나 재료들을 다루는 데 능숙하다. 논리 분석적으로 일을 처리하는 데 반해, 추상적인 아이디어나 개념에 대해서는 별로 흥미가 없다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/estp-entrepreneur.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 12,
+                    "question_idx": 11,
+                    "answer_order": 1,
+                    "answer_title": "ISFJ",
+                    "answer_h_title": "용감한 수호자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/isfj-defender.png"
+                },
+                {
+                    "answer_idx": 14,
+                    "question_idx": 11,
+                    "answer_order": 2,
+                    "answer_title": "ISTJ",
+                    "answer_h_title": "청렴결백한 논리주의자",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/istj-logistician.png"
+                }
+            ]
+        },
+        {
+            "idx": 12,
+            "name": "ISFJ",
+            "h_name": "용감한 수호자",
+            "charicter": "조용하고 차분하며 친근하고 책임감이 강하다. 또 온정적이며 침착하고 인내력이 강하다. 조용하지만 본인이 나름대로 존경하거나 좋아하는 사람에 대한 충성심과 애정이 특히 많다. 친구나 지인으로써도 가장 믿음직스러운 성격이다. I 유형이므로 내향형이지만, 내향형 성격 중에서는 외향성이 가장 강하다. 본인의 감정을 파악하는 덴 능숙하지만 감정을 표현하는 덴 서툴다. 본인의 감정이나 노력, 관심등을 표현해도 타인이 알아채지 못하는 경우가 많으며 이러한 상황을 알지 못하는 ISFJ는 타인과의 관계에서 상당한 걱정을 한다. 일 처리에 있어서는 현실 감각을 가지고 실제적이고 조직적이며 완벽주의적으로 처리한다. 완벽한 결과물을 도출하지 못할 경우 극심한 스트레스를 받으며 게으른 자신에게서도 극심한 괴리감을 느낀다",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/isfj-defender.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 9,
+                    "question_idx": 12,
+                    "answer_order": 1,
+                    "answer_title": "ESFP",
+                    "answer_h_title": "모험을 즐기는 사업가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/esfp-entertainer.png"
+                },
+                {
+                    "answer_idx": 11,
+                    "question_idx": 12,
+                    "answer_order": 2,
+                    "answer_title": "ESTP",
+                    "answer_h_title": "자유로운 영혼의 연예인",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/estp-entrepreneur.png"
+                }
+            ]
+        },
+        {
+            "idx": 13,
+            "name": "ESFJ",
+            "h_name": "사교적인 외교관",
+            "charicter": "동정심이 많고 다른 사람에게 관심을 쏟고 인화를 중시한다. 타고난 협력자로서 동료애가 많고 친절하며 능동적인 구성원이다. 이야기하기를 즐기며 정리 정돈을 잘하고 참을성이 많고 다른 사람들을 잘 도와준다. 사람을 다루고 행동을 요구하는 분야, 예를 들면 교직, 성직, 판매 특히 동정심을 필요로 하는 간호나 의료 분야에 적합하다. 일이나 사람들에 대한 문제에 대하여 냉철한 입장을 취하기 어려워한다. 반대 의견에 부딪혔을 때나 제 요구가 거절당했을 때 마음의 상처를 받는다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/esfj-consul.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 8,
+                    "question_idx": 13,
+                    "answer_order": 1,
+                    "answer_title": "ISFP",
+                    "answer_h_title": "호기심 많은 예술가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/isfp-adventurer.png"
+                },
+                {
+                    "answer_idx": 10,
+                    "question_idx": 13,
+                    "answer_order": 2,
+                    "answer_title": "ISTP",
+                    "answer_h_title": "만능 재주꾼",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/istp-virtuoso.png"
+                }
+            ]
+        },
+        {
+            "idx": 14,
+            "name": "ISTJ",
+            "h_name": "청렴결백한 논리주의자",
+            "charicter": "신중하고 조용하며 집중력이 강하고 매사에 철저하며 사리분별력이 뛰어나다. 실제 사실에 대하여 정확하고 체계적으로 기억하며 일 처리에 있어서도 신중하며 책임감이 강하다. 집중력이 강한 현실감각을 지녔으며 조직적이고 침착하다. 보수적인 경향이 있으며, 문제를 해결하는데 과거의 경험을 잘 적용하며, 반복되는 일상적인 일에 대한 인내력이 강하다. 자신과 타인의 감정과 기분을 배려하며, 전체적이고 타협적 방안을 고려하는 노력이 때로 필요하다. 정확성과 조직력을 발휘하는 분야의 일을 선호한다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/istj-logistician.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 9,
+                    "question_idx": 12,
+                    "answer_order": 1,
+                    "answer_title": "ESFP",
+                    "answer_h_title": "모험을 즐기는 사업가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/esfp-entertainer.png"
+                },
+                {
+                    "answer_idx": 11,
+                    "question_idx": 12,
+                    "answer_order": 2,
+                    "answer_title": "ESTP",
+                    "answer_h_title": "자유로운 영혼의 연예인",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/estp-entrepreneur.png"
+                }
+            ]
+        },
+        {
+            "idx": 15,
+            "name": "ESTJ",
+            "h_name": "엄격한 관리자",
+            "charicter": "구체적이고 현실적이고 사실적이며 활동을 조직화하고 주도해 나가는 지도력이 있다. 실질적이고 현실감각이 뛰어나며 일을 조직하고 계획하여 추진시키는 능력이 있다. 기계분야나 행정 분야에 재능을 지녔으며, 체계적으로 사업체나 조직체를 이끌어 나간다. 타고난 지도자로서 일의 목표를 설정하고, 지시하고 결정하고 이행하는 능력이 있다. 속단 속결하는 경향과 지나치게 업무 위주로 사람을 대하는 경향이 있으므로 인간 중심의 가치와 타인의 감정을 충분히 고려해야 한다. 또 미래의 가능성보다 현재의 사실을 추구하기 때문에 현실적, 실용적인 면이 강하다.",
+            "image": "https://static.neris-assets.com/images/personality-types/avatars/estj-executive.png",
+            "image_origin": "banner.png",
+            "view": 0,
+            "status": 1,
+            "option01": null,
+            "option02": null,
+            "createdAt": "2020-02-09T15:34:27.000Z",
+            "updatedAt": "2020-02-09T15:34:27.000Z",
+            "answer": [
+                {
+                    "answer_idx": 8,
+                    "question_idx": 13,
+                    "answer_order": 1,
+                    "answer_title": "ISFP",
+                    "answer_h_title": "호기심 많은 예술가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/isfp-adventurer.png"
+                },
+                {
+                    "answer_idx": 10,
+                    "question_idx": 13,
+                    "answer_order": 2,
+                    "answer_title": "ISTP",
+                    "answer_h_title": "만능 재주꾼",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/istp-virtuoso.png"
+                },
+                {
+                    "answer_idx": 6,
+                    "question_idx": 13,
+                    "answer_order": 2,
+                    "answer_title": "INTP",
+                    "answer_h_title": "논리적인 사색가",
+                    "answer_image": "https://static.neris-assets.com/images/personality-types/avatars/intp-logician.png"
+                }
+            ]
+        }
+    ]
+}
